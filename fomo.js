@@ -1,5 +1,4 @@
-
-    var resultado = Math.round(Math.random()*(max - min) + parseInt(min));
+var resultado = Math.round(Math.random()*(max - min) + parseInt(min));
     var fomonumber = document.querySelector("#fomonumber");
     var fomociudad = document.querySelector("#fomociudad");
     
